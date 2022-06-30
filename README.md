@@ -6,5 +6,5 @@ This is a simple Language Detection Model. Here, I have mainly used three langua
 Check it out!!!
 https://language-detection-app-engfrde.herokuapp.com/
 
-![Relational Dependencies](./Web_App.jpg)
+![Web App](./Web_App.jpg)
 </br>
